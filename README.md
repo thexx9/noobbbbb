@@ -1,5 +1,3 @@
-# noobbbbb
-fxxk 
 
 # MC9S12微控制器
 ## 命名规则
